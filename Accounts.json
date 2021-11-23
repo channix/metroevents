@@ -1,0 +1,28 @@
+{
+    "accounts": [
+        {
+            "firstname": "Christiane",
+            "middlename": "Candelosa",
+            "lastname": "Repunte",
+            "username": "channix",
+            "email": "repuntechannix@gmail.com",
+            "password": "123"
+        },
+        {
+            "firstname": "John",
+            "middlename": "Test",
+            "lastname": "Doe",
+            "username": "johndoe",
+            "email": "johndoe@gmail.com",
+            "password": "321"
+        },
+        {
+            "firstname": "Jane",
+            "middlename": "Sample",
+            "lastname": "Doe",
+            "username": "janedoe",
+            "email": "janedoe@gmail.com",
+            "password": "456"
+        }
+    ]
+}
